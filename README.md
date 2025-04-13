@@ -65,6 +65,15 @@ Click:
 The compiled `.exe` will be available here:
 👉 [GitHub Releases](https://github.com/YourUsername/RepoName/releases) *(update after publishing)*
 
+## 🖥️ Alternative Version – Tkinter GUI
+
+For users who prefer a standalone window-based interface instead of browser-based usage, an alternative version of the application is also available using **Tkinter**.
+
+🧩 File: `mergesort_app.py`
+- Opens a desktop window with a GUI
+- Input, result and merge history shown in the same window
+- Works independently of Flask
+
 ## 📜 License
 
 This project is open for everyone.  
@@ -138,6 +147,15 @@ Kliknij:
 
 Gotowy plik `.exe` będzie dostępny tutaj:  
 👉 [Releases na GitHubie](https://github.com/YourUsername/RepoName/releases) *(link do uzupełnienia)*
+
+## 🖥️ Alternatywna wersja – Tkinter (GUI)
+
+Dla użytkowników preferujących klasyczne aplikacje okienkowe, aplikacja dostępna jest również w wersji **GUI z wykorzystaniem Tkintera**.
+
+📄 Plik: `mergesort_app.py`
+- Uruchamia się jako aplikacja okienkowa
+- Dane wejściowe, wynik i historia wyświetlane w GUI
+- Nie wymaga przeglądarki ani Flaska
 
 ## 📜 Licencja
 
