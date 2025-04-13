@@ -63,7 +63,7 @@ Click:
 ## 📁 Releases
 
 The compiled `.exe` will be available here:
-👉 [GitHub Releases](https://github.com/YourUsername/RepoName/releases) *(update after publishing)*
+👉 [GitHub Releases](https://github.com/sebastian-c87/MergeSort-App/releases/tag/v1.0.0)
 
 ## 🖥️ Alternative Version – Tkinter GUI
 
@@ -146,7 +146,7 @@ Kliknij:
 ## 📁 Release
 
 Gotowy plik `.exe` będzie dostępny tutaj:  
-👉 [Releases na GitHubie](https://github.com/YourUsername/RepoName/releases) *(link do uzupełnienia)*
+👉 [Releases na GitHubie](https://github.com/sebastian-c87/MergeSort-App/releases/tag/v1.0.0) 
 
 ## 🖥️ Alternatywna wersja – Tkinter (GUI)
 
